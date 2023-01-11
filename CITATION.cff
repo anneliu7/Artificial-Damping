@@ -1,17 +1,10 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: Artificially-damped Fourier method repository
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
+message: "If you use this repository, please cite it as below."
 authors:
-  - given-names: Anne Liu
-    email: aliu7@uw.edu
-  - given-names: Thomas Trogdon
-    email: trogdon@uw.edu
-identifiers:
-  - type: url
-    value: 'https://github.com/anneliu7/Artificial-Damping'
+- family-names: "Liu"
+  given-names: "Anne"
+- family-names: "Trogdon"
+  given-names: "Thomas"
+title: "Artificially-damped Fourier method repository"
+version: 2.0.4
+url: "https://github.com/anneliu7/Artificial-Damping"
