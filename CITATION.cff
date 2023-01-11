@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Artificially-damped Fourier method
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anne Liu
+    email: aliu7@uw.edu
+  - given-names: Thomas Trogdon
+    email: trogdon@uw.edu
