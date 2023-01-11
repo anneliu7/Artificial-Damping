@@ -12,3 +12,6 @@ authors:
     email: aliu7@uw.edu
   - given-names: Thomas Trogdon
     email: trogdon@uw.edu
+identifiers:
+  - type: url
+    value: 'https://github.com/anneliu7/Artificial-Damping'
